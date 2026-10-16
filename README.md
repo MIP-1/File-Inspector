@@ -9,4 +9,4 @@ A privacy-first, serverless web application that allows users to inspect and che
 - **Smart Hash Lookup:** Calculates SHA-256 fingerprint and queries VirusTotal API.
 - **Multi-language & Themes:** Supports Arabic/English (RTL/LTR) with Dark/Light modes.
 
-Developed by [Mustafa](https://github.com/mustafsyria2011-afk)
+Developed by [Mustafa](https://github.com/MIP-1)
